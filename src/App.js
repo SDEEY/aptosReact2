@@ -5,10 +5,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const aptAmount = 1
-const image = 'https://pbs.twimg.com/profile_images/1568537555703922688/l0AVrREm_400x400.jpg'
-const Title = 'The Hive'
-const supply = 888
+const aptAmount = 1.99
+const image = 'https://pbs.twimg.com/profile_images/1584160234955624448/P1YRpnjp_400x400.jpg'
+const Title = 'Zakura - Aptos'
+const supply = 2222
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
