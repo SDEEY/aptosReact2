@@ -5,10 +5,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const aptAmount = 1.99
-const image = 'https://pbs.twimg.com/profile_images/1584160234955624448/P1YRpnjp_400x400.jpg'
-const Title = 'Zakura - Aptos'
-const supply = 2222
+const aptAmount = '2 / 2.5'
+const image = 'https://pbs.twimg.com/profile_images/1583576368113242145/BW2xP1IQ_400x400.jpg'
+const Title = "HalloweenBoi"
+const supply = 999
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
