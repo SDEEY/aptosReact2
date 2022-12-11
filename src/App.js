@@ -5,10 +5,10 @@ import OwnLayout from "./OwnLayout/OwnLayout";
 import imgDiscord from './icons8-discord-50.png'
 import imgTwitter from './icons8-twitter-50.png'
 
-const aptAmount = '0 / 1'
-const image = 'https://media.discordapp.net/attachments/1032225131499630603/1037273505131147265/Street_Gang_11.png?width=610&height=610'
-const Title = "STREETGANG"
-const supply = 471
+const aptAmount = '0'
+const image = 'https://media.discordapp.net/attachments/1006431494715224224/1034306628842967070/unknown.png?width=1170&height=1170'
+const Title = "GEN3 PUNKS"
+const supply = 5555
 
 document.title = Title
 document.getElementById('favicon').setAttribute('href', image)
